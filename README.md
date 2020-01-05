@@ -1,2 +1,0 @@
-# Population
-Created with CodeSandbox
